@@ -5,7 +5,7 @@ Here is week7 assignment. a quick and dirty movie client app utilizing recyclerV
 
 Here's a walkthrough of implemented week5 assignment(https://i.imgur.com/YPVxfNc.gif):
 
-<img src='https://https://i.imgur.com/YPVxfNc.gif' title='Video Walkthrough' width='905' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YPVxfNc.gif' title='Video Walkthrough' width='905' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
